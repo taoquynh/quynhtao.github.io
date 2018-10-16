@@ -1,0 +1,10 @@
+basePath: '{{.BasePath}}'
+host: localhost:8080
+info:
+  contact: {}
+  description: Các API liên quan đến User.
+  license: {}
+  title: Service Auth
+  version: "1.0"
+paths: {}
+swagger: "2.0"

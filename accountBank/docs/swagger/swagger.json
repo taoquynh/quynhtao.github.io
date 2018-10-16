@@ -1,0 +1,13 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "description": "Các API liên quan đến User.",
+        "title": "Service Auth",
+        "contact": {},
+        "license": {},
+        "version": "1.0"
+    },
+    "host": "localhost:8080",
+    "basePath": "{{.BasePath}}",
+    "paths": {}
+}
